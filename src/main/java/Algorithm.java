@@ -1,14 +1,14 @@
 import java.util.Arrays;
 
-public class Algoritms {
+public class Algorithm {
 
     public static void main(String[] args) {
         int [] arr = {11, 3, 14, 16, 7};
-        Algoritms algoritms = new Algoritms();
+        Algorithm algorithm = new Algorithm();
         System.out.println(Arrays.toString(arr));
-        int[] sorted = algoritms.sort(arr);
+        int[] sorted = algorithm.sort(arr);
         System.out.println(Arrays.toString(sorted));
-        int index = algoritms.binarySearch(sorted, 14);
+        int index = algorithm.binarySearch(sorted, 14);
         System.out.println(index);
     }
 

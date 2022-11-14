@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="568ee870-c418-479e-a346-9ca93fde8da7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AlgoritmsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="568ee870-c418-479e-a346-9ca93fde8da7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,38 +39,47 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AlgoritmsTest.shouldReturnMinus1InSortedArrayWhenElementNotFound">
-    <configuration name="Algoritms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algoritms" />
+  <component name="RunManager" selected="JUnit.AlgorithmTest">
+    <configuration name="Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm" />
       <module name="lesson12" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgoritmsTest.shouldFindIndexInSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson12" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AlgoritmsTest" />
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.shouldFindIndexInSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson12" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest" />
       <option name="METHOD_NAME" value="shouldFindIndexInSortedArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgoritmsTest.shouldReturnMinus1InSortedArrayWhenElementNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlgorithmTest.shouldReturnMinus1InSortedArrayWhenElementNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson12" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AlgoritmsTest" />
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest" />
       <option name="METHOD_NAME" value="shouldReturnMinus1InSortedArrayWhenElementNotFound" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgoritmsTest.shouldSortArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlgorithmTest.shouldSortArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson12" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AlgoritmsTest" />
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest" />
       <option name="METHOD_NAME" value="shouldSortArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -87,10 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AlgoritmsTest.shouldReturnMinus1InSortedArrayWhenElementNotFound" />
-        <item itemvalue="JUnit.AlgoritmsTest.shouldFindIndexInSortedArray" />
-        <item itemvalue="JUnit.AlgoritmsTest.shouldSortArray" />
-        <item itemvalue="Application.Algoritms" />
+        <item itemvalue="JUnit.AlgorithmTest" />
+        <item itemvalue="JUnit.AlgorithmTest.shouldReturnMinus1InSortedArrayWhenElementNotFound" />
+        <item itemvalue="JUnit.AlgorithmTest.shouldFindIndexInSortedArray" />
+        <item itemvalue="JUnit.AlgorithmTest.shouldSortArray" />
+        <item itemvalue="Application.Algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668423143504</updated>
-      <workItem from="1668423145197" duration="2128000" />
+      <workItem from="1668423145197" duration="2611000" />
     </task>
     <servers />
   </component>
